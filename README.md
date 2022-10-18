@@ -32,6 +32,7 @@ el aula.<br/>
 •Todos hayan realizado commits.<br/>
 •División de tareas y creación de issues.<br/>
 👉Entrega en tiempo y forma.<br/>
+
 ### **FECHA DE ENTREGA: 04/11/2022**
 
 La inmobiliaria “Bienes Raíces Future”, nos ha pedido ayuda con la
@@ -60,5 +61,5 @@ la base de datos:
 
 <br/>
 <br/>
-## **También se necesita que se conecte la Base de Datos creada, con
-el ABM desarrollado para poder persistir los datos.**
+
+### **También se necesita que se conecte la Base de Datos creada, con el ABM desarrollado para poder persistir los datos.**
