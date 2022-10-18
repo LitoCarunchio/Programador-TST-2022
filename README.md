@@ -1,4 +1,5 @@
-![alt text](https://github.com/EMTSTISPC/Grupo1/blob/main/logo.PNG)
+![logo](https://user-images.githubusercontent.com/110072008/196318954-f03b9cbf-0fed-41a8-a383-5016b31f497c.png)
+
 ## Grupo 
 ### **Tecnicatura Superior en Telecomunicaciones Módulo programador**
 
