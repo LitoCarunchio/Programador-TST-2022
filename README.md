@@ -62,4 +62,4 @@ la base de datos:
 <br/>
 <br/>
 
-### **También se necesita que se conecte la Base de Datos creada, con el ABM desarrollado para poder persistir los datos.**
+### 🖥️ **También se necesita que se conecte la Base de Datos creada, con el ABM desarrollado para poder persistir los datos.** 🖥️
