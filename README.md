@@ -55,7 +55,7 @@ la base de datos:
 <br/>
 <br/>
 
-![bdd](C:\Users\Lito\Desktop\bdd.png)
+![bdd](https://user-images.githubusercontent.com/110072008/196318771-42e58d74-113c-46c3-b042-605904211d28.png)
 
 <br/>
 <br/>
