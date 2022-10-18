@@ -14,11 +14,7 @@
 
 
 ### **Condiciones generales de entrega:**
-Contiene actividades y proyectos:
-Datasheeth ESP
-Microcontroladores de 8 bits
-Prácticas de I/O en sistemas embebidos v1.0 
-Ejercitación Evaluativa -Prácticas de IO
+
 
 👉Trabajo grupal, de 3(tres) o 4(cuatro) integrantes, sin importar
 el aula.<br/>
