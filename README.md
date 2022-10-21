@@ -8,10 +8,10 @@
 
 ### **Integrantes**
 
-❖ Alumno1<br />
-❖ Alumno2<br />
+❖ Alumno1<br/>
+❖ Alumno2<br/>
 ❖ Alumno3<br/>
-
+❖ Alumno4<br/>
 
 ### **Condiciones generales de entrega:**
 
