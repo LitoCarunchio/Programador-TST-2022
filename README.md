@@ -8,10 +8,11 @@
 
 ### **Integrantes**
 
-❖ Alumno1<br/>
-❖ Alumno2<br/>
-❖ Alumno3<br/>
-❖ Alumno4<br/>
+❖ Benitez Nestor<br/>
+❖ Carunchio Carlos<br/>
+❖ Carrizo Esteban<br/>
+❖ Romero Gisela<br/>
+
 
 ### **Condiciones generales de entrega:**
 
