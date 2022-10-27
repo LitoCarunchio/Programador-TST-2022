@@ -1,3 +1,5 @@
+CREATE DATABASE Inmobiliaria;
+
 USE Inmobiliaria;
 
 CREATE TABLE Tipo
@@ -46,3 +48,23 @@ CONSTRAINT id_est_fk FOREIGN KEY (Id_Estado) REFERENCES Estado(Id_Estado),
 CONSTRAINT id_ope_fk FOREIGN KEY (Id_Operacion_Comercial) REFERENCES OperatoriaComercial(Id_Operatoria_Comercial),
 CONSTRAINT id_prop_fk FOREIGN KEY (Id_Propietario) REFERENCES Propietario (Id_Propietario)
 );
+
+INSERT INTO Tipo VALUES (null, 'Casa'), (null, 'Departamento'), (null, 'PH'), (null, 'Country'), (null, 'Local Comercial');
+
+INSERT INTO Estado VALUES (null, 'Disponible'), (null, 'No Disponible');
+
+INSERT INTO OperatoriaComercial VALUES (null, 'Venta'), (null, 'Alquiler');
+
+INSERT INTO Propietario VALUES 
+(null, 'Acosta Juan', 'Alberdi 123', 456789456), 
+(null, 'González María', 'Sarmiento 412', 456769966), 
+(null, 'Centurión Sebastián', 'Moreno 632', 454839458),
+(null, 'Ojeda Mariana', 'Castelli 456', 456456451),
+(null, 'Ruiz Matías', 'San Mrtín 828', 456754752);
+
+INSERT INTO Propiedad (Nombre, Direccion, Contacto) VALUES 
+('Alvarez Carlos', 'Azcuénaga 636', '478778965'),
+('Oviedo Leandro', 'Mitre 661', '487877855'),
+('Gaona Andrea', 'Rivadavia 144', '478333969'), 
+('Segovia Martín', 'España 363', '418778641'),
+('Ocampos Ana', '25 de Mayo 777', '437788967');

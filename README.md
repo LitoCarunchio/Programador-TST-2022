@@ -8,7 +8,7 @@
 
 ### **Integrantes**
 
-❖ Benitez Nestor<br/>
+❖ Benitez Nestor Rafael<br/>
 ❖ Carrizo Esteban<br/>
 ❖ Carunchio Carlos<br/>
 ❖ Romero Gisela<br/>
