@@ -1,5 +1,6 @@
-import mysql.connector
+from sqlite3 import Cursor
 import time
+import mysql.connector
 
 class conexion: # Clase conexion
     def __init__(self):
